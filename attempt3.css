@@ -1,0 +1,26 @@
+#player,#player a{ color:#C91149; }
+#player{ background:url(https://64.media.tumblr.com/20710b8e1b22997b99a6917d356af0a7/39b21a2974ffc8d6-6f/s75x75_c1/ab160e1af8183b050e547393e4df2c61c30c144e.pnj); background-position:bottom; background-color: #000000 }
+#player .mainImage{ background:url(https://64.media.tumblr.com/63a7125d56b32f4e4ed387eaa76a236c/39b21a2974ffc8d6-bd/s400x600/0c95affbf3f290211acc32d68b3777f82ba4666f.pnj); }
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url(https://64.media.tumblr.com/8b514a31aefc0435bd2a9cb23a8aeb2f/39b21a2974ffc8d6-e2/s75x75_c1/e36e8b5b47c865531904403327d18dfd94d61008.pnj); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px;  }
+#player #list{ right:0px; }
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#1A040B;  }
+#player #seekerBuffered{ background-color:#451322; }
+#player #seekerSliderBase{ background-color:#1A040B; }
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(https://64.media.tumblr.com/63a7125d56b32f4e4ed387eaa76a236c/39b21a2974ffc8d6-bd/s400x600/0c95affbf3f290211acc32d68b3777f82ba4666f.pnj); }
+#playlist,#playlist .module,#playlist h3{ border-color:#333;}
+#playlist .module{ color:#C91149; background-color:#0000000; }
+#playlist h3{ background:url(https://64.media.tumblr.com/f93439de32cd6e5eabc91eb5135f4893/39b21a2974ffc8d6-c3/s75x75_c1/abd4bebb654fbede1e8f1f41a83562f785aa6c0f.pnj); color:#C91149; background-color:#000000; }
+#playlist .even{background-color:#000000;}
+#playlist .odd{ background-color:#000000;}
+#playlist .focus{ background-color:#000000; color:#C91149;}
